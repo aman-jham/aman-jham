@@ -59,13 +59,13 @@
 
 <img align="left" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="jetpackcompose" width="35px"/>
 
-<img align="left" src="https://img.icons8.com/fluency/256/flutter.png" alt="flutter" width="35px"/>
+<!-- <img align="left" src="https://img.icons8.com/fluency/256/flutter.png" alt="flutter" width="35px"/>
 
 <img align="left" src="https://img.icons8.com/color/256/dart.png" alt="dart" width="35px"/>
 
 <img align="left" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionicframework" width="35px"/>
 
-<img align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactnative" width="35px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactnative" width="35px"/> -->
 
 <img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
@@ -77,12 +77,12 @@
 
 <!-- <br> -->
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="awsamplify" width="35px"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="android-studio" width="35px"/>
 
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://img.icons8.com/?size=512&id=61466&format=png" />
+<img align="left" alt="Visual Studio Code" alt="visual-studio" width="35px" src="https://img.icons8.com/?size=512&id=61466&format=png" />
 
 
 
