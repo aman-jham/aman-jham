@@ -14,7 +14,7 @@
       <a href="https://twitter.com/AMANJHAM"><img src="https://custom-icon-badges.herokuapp.com/badge/-Twitter-black?style=for-the-badge&amp;logo=twitter&logoColor=white" alt="Twitter"></a>
       <a href="https://keybase.io/amanjham"><img src="https://custom-icon-badges.herokuapp.com/badge/-Keybase-black?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase"></a>
       <a href="https://bento.me/amanjham"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Website"></a>
-      <a href="mailto:aman.jham91@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&amp;logo=gmail" alt="Mail"></a>
+      <!-- <a href="mailto:aman.jham91@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&amp;logo=gmail" alt="Mail"></a> -->
 </p>
 
 
@@ -43,6 +43,7 @@
 - 👯 Looking to collaborate with other Developers 🤘
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything, but I may be slow to respond.
+- 📫 How to reach me: aman.jham91@gmail.com
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Carrots🥕🥕 just might turn you orange.
 
