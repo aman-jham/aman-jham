@@ -27,7 +27,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/aman-jham?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  
   <a href="https://github.com/aman-jham">
-    <img alt="views" title="GitHub profile views" src="https://enwj06txat9l677.m.pipedream.net"/>
+    <img alt="views" title="GitHub profile views" src="https://enps0gjz1bmjy7y.m.pipedream.net"/>
   </a>
 
 </p>
