@@ -36,8 +36,9 @@
 
 #### Talking about Personal Stuffs!
 
-<img src='https://media.tenor.com/images/ccae3320ab522c1d09e041f1f7ffea74/tenor.gif' align='right'>
+<img align="right" alt="Coding" src="https://media.tenor.com/images/ccae3320ab522c1d09e041f1f7ffea74/tenor.gif">
 
+ 
 - 🔭 I’m currently working on a few android projects.
 - 🌱 Learning about Kotlin Multi Platform (KMM) and JetPack Compose.
 - 👯 Looking to collaborate with other Developers 🤘
@@ -118,4 +119,4 @@
 <br>
 
 
-<!-- ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-jham&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-jham&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
