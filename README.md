@@ -4,7 +4,7 @@
 </h3>
 
 <p align='center'>
-    Lead Android Developer
+    Lead Software Engineer
 </p>
 
 <!-- Social icons section -->
@@ -27,13 +27,13 @@
 
 <br>
 
-#### Talking about Personal Stuffs!
+#### About Me!
 
 <img align="right" alt="Coding" src="https://media.tenor.com/images/ccae3320ab522c1d09e041f1f7ffea74/tenor.gif">
 
  
-- 🔭 I’m currently working on a few android projects.
-- 🌱 Learning about Kotlin Multi Platform (KMM) and JetPack Compose.
+- 🔭 I’m currently working on a few projects.
+- 🌱 Learning about AI, Machine Learning.
 - 👯 Looking to collaborate with other Developers 🤘
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything, but I may be slow to respond.
@@ -41,27 +41,78 @@
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Carrots🥕🥕 just might turn you orange.
 
+#### Talking about Professional Experience & Skills!
+
+- Over 11 years of experience in designing, developing, and delivering secure, scalable, and high-performance applications across mobile (Android/iOS), frontend, backend, and QA domains.
+- Mobile: Android (Java, Kotlin, Jetpack Compose, KMM), iOS (Swift, SwiftUI); expertise in banking, media, telecom, healthcare, and finance apps.
+- Concurrency & Architecture: Multi-threading, Coroutines, Flow, RxJava, DI (Hilt, Dagger, Koin), complex UI/UX, background processing, biometric authentication.
+- Frontend & Backend: React, Angular, TypeScript, HTML5, CSS3, Java Spring Boot, Node.js, .NET Core, Ktor, Go.
+- APIs & Microservices: RESTful APIs, GraphQL, gRPC, microservices integration.
+- Databases: Room, SQLite, PostgreSQL, Oracle, MongoDB, Redis.
+- DevOps & Cloud: Jenkins, GitHub Actions, Azure DevOps, Docker, Kubernetes, AWS, Azure, GCP.
+- Monitoring & Analytics: Splunk, Firebase Analytics, Dynatrace, ELK stack.
+- QA & Testing: Espresso, XCTest, Appium, Selenium, Cypress, Postman; functional, regression, performance, and security testing.
+- Compliance & Security: APRA, PCI-DSS, OWASP standards.
+- Agile & Teamwork: Scrum environments, mentoring, code reviews, project planning, release management.
+- Deployment: Google Play Store, Apple App Store, web platforms.
+- Software Design: MVC, MVP, MVVM, Clean Architecture, SOLID principles.
 
 ### Tech Stack: 
 
-<img align="left" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="35px"/>
-
-<img align="left" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="35px"/>
-
-
-<img align="left" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30px"/>
-
-<img align="left" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="jetpackcompose" width="35px"/>
-
-<img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-
-
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="android-studio" width="35px"/>
-
-
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Visual Studio Code" alt="visual-studio" width="35px" src="https://img.icons8.com/?size=512&id=61466&format=png" />
+<p align="left">
+  <!-- Mobile -->
+  <img alt="Android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="Kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40px" style="margin:5px"/>
+<!--   <img alt="Jetpack Compose" src="https://raw.githubusercontent.com/JetBrains/compose-jb/main/compose/resources/logo/compose-logo.png" width="40px" style="margin:5px"/>
+  <img alt="Swift" src="https://www.vectorlogo.zone/logos/apple/swift.svg" width="40px" style="margin:5px"/> -->
+  <img alt="SwiftUI" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="40px" style="margin:5px"/>
+  
+  <!-- Frontend -->
+  <img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="Angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="CSS3" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40px" style="margin:5px"/>
+  
+  <!-- Backend -->
+  <img alt="Spring Boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40px" style="margin:5px"/>
+  <img alt=".NET Core" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40px" style="margin:5px"/>
+  <!-- <img alt="Ktor" src="https://ktor.io/assets/images/logo-dark.svg" width="40px" style="margin:5px"/> -->
+  <img alt="Go" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="40px" style="margin:5px"/>
+  
+  <!-- Databases -->
+  <img alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="Oracle" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="Redis" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40px" style="margin:5px"/>
+  <!-- <img alt="Room" src="https://raw.githubusercontent.com/android/compose-samples/main/images/room_logo.png" width="40px" style="margin:5px"/> -->
+  
+  <!-- DevOps & Cloud -->
+  <img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="Azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="GitHub Actions" src="https://cdn.iconscout.com/icon/free/png-256/github-actions-3629710-3031370.png" width="40px" style="margin:5px"/>
+  
+  <!-- Testing & QA -->
+  <!-- <img alt="Espresso" src="https://developer.android.com/images/tools/espresso-icon.png" width="40px" style="margin:5px"/>  -->
+  <img alt="XCTest" src="https://developer.apple.com/assets/elements/icons/xcode/xcode-96x96_2x.png" width="40px" style="margin:5px"/>
+  <!-- <img alt="Appium" src="https://appium.io/img/appium-logo.png" width="40px" style="margin:5px"/>
+  <img alt="Selenium" src="https://www.vectorlogo.zone/logos/seleniumio/seleniumio-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="Cypress" src="https://www.vectorlogo.zone/logos/cypress-io/cypress-io-icon.svg" width="40px" style="margin:5px"/> -->
+  <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40px" style="margin:5px"/>
+  
+  <!-- Analytics & Monitoring -->
+  <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="Splunk" src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="ELK Stack" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40px" style="margin:5px"/>
+  <img alt="Dynatrace" src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" width="40px" style="margin:5px"/>
+</p>
 
 <br>
 <br>
